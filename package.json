@@ -1,0 +1,14 @@
+{
+  "name": "liuda-wdorders",
+  "version": "1.0.0",
+  "description": "grab orders from weidian",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
