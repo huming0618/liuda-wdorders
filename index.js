@@ -33,9 +33,9 @@ const run = async ()=>{
         const loginPwdInput = document.querySelectorAll('input[name="password"]')[0];
         const loginBtn = document.querySelectorAll('form[name="loginer"]')[0].querySelector('a');
 
-        loginPhoneInput.value = "13880706869";
-        loginNameInput.value = "liuda93";
-        loginPwdInput.value = "liuda93";
+        loginPhoneInput.value = "1869";
+        loginNameInput.value = "l93";
+        loginPwdInput.value = "l93";
   
         [loginPhoneInput, loginNameInput, loginPwdInput].forEach(input=>{
             const $input = $(input);
